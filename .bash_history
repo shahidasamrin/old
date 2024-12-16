@@ -62,3 +62,15 @@ git push origin main
 git push -u origin main
 #1734357853
 git commit -m "first commit"
+#1734357874
+ git add -A
+#1734357887
+git commit -m "first commit"
+#1734357901
+git branch -M main
+#1734357909
+git push -u origin main
+#1734358448
+git init
+#1734358866
+git remote add origin https://github.com/shahidasamrin/new
