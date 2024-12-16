@@ -50,3 +50,15 @@ git init
 ls
 #1734357366
 git remote add origin https://github.com/shahidasamrin/old
+#1734357380
+git add -A
+#1734357405
+git commit -m "first commit"
+#1734357424
+git branch -M main
+#1734357432
+git push origin main
+#1734357467
+git push -u origin main
+#1734357853
+git commit -m "first commit"
