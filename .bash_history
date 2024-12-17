@@ -74,3 +74,75 @@ git push -u origin main
 git init
 #1734358866
 git remote add origin https://github.com/shahidasamrin/new
+#1734358893
+git add -A
+#1734358902
+git commit -m "first commit"
+#1734358909
+git branch -M main
+#1734358917
+git push -u origin main
+#1734406109
+ls
+#1734406121
+git checkout -b
+#1734406137
+git branch
+#1734406377
+git checkout -b addition
+#1734406387
+git branch
+#1734408653
+vim 
+#1734408689
+ls
+#1734408735
+vim substraction
+#1734408759
+git init
+#1734408805
+git remote add origin https://github.com/shahidasamrin/old
+#1734408820
+git add substraction
+#1734408833
+git commit -m "second commit"
+#1734408850
+git push -u origin main
+#1734409399
+git branch
+#1734409427
+ls
+#1734409474
+git init
+#1734409481
+git remote add origin https://github.com/shahidasamrin/old
+#1734409490
+git add substraction
+#1734409496
+git commit -m "second commit"
+#1734409506
+git branch -M main
+#1734409529
+git push -u origin main
+#1734410092
+git log
+#1734410166
+cd addition
+#1734410188
+git checkout addition
+#1734410283
+git branch addition
+#1734410288
+ls
+#1734410299
+git branch
+#1734410346
+git switch addition
+#1734410380
+ls
+#1734410400
+git init
+#1734410411
+git remote add origin https://github.com/shahidasamrin/old
+#1734410436
+git add addition
